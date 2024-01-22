@@ -1,5 +1,5 @@
 # Seminar Paper
-## Unicorn University - seminar: Energy Industry
+## Unicorn University - Energy Industry Seminar
 Winter semester 2023/2024   
 
 **Attached**:  
