@@ -1,4 +1,4 @@
-# Unicorn University - seminar: Energetics
+# Unicorn University - seminar: Energy Industry
 Unicorn University - Winter semester 2023/2024   
 
 **Attached**:  
