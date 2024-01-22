@@ -57,8 +57,8 @@ theme <- theme(
 # ----------------------------------------------
 # 3.1 Descriptive analysis
 # ----------------------------------------------
-setwd("C://Users/sonao/Documents/Unicorn_University/Druhy_rocnik/ZIMNI_SEMESTR/Energetika/Seminarka")
-data_pcbf <- read_excel("SemestralniPrace_OburkovaSona_20231231.xls")
+setwd("C://Users/GitHub")
+data_pcbf <- read_excel("Seminar_paper_GitHub_20240121.xls")
 data_pcbf <- as.data.frame(data_pcbf) 
 # GLANCE AT DATA
 head(data_pcbf,10)
@@ -434,8 +434,8 @@ dwtest(model_2)
 # TIME SERIES
 #----------------
 # READING DATA FROM EXCEL, SELECTING RELATIVE COLUMNS AND RENAMING THEM, PRINTING VARIABLES STRUCTURE
-setwd("C://Users/sonao/Documents/Unicorn_University/Druhy_rocnik/ZIMNI_SEMESTR/Energetika/Seminarka")
-data_price <- read_excel("SemestralniPrace_OburkovaSona_20231231.xls")
+setwd("C://Users/GitHub")
+data_price <- read_excel("Seminar_paper_GitHub_20240121.xls")
 data_price <- as.data.frame(data_price[1:3]) 
 
 # RENAMING COLUMNS
