@@ -3,7 +3,7 @@ Unicorn University - Winter semester 2023/2024
 
 **Attached**:  
 * Semina paper: **pdf**  
-* Code in R: **R**   
+* Code: **R**   
 * Source data: **xls**   
 
 In this seminar paper, we practiced various data **visualization techniques** in the R programming language, as well as **regression** and **time series analysis**.
