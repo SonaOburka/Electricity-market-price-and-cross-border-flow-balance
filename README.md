@@ -1,6 +1,5 @@
-# Seminar Paper
-## Unicorn University - Energy Industry Seminar
-Winter semester 2023/2024   
+# Energy market price per MWh (EUR), cross-border electricity flow balance (MWh)
+Seminar Paper - "Energy Industry Seminar", Unicorn University, Winter 2023/2024
 
 **Attached**:  
 * Semina paper: **pdf**  
