@@ -1,4 +1,4 @@
-# Energy market price per MWh (EUR), cross-border electricity flow balance (MWh)
+# Electricity market price per MWh (EUR), cross-border electricity flow balance (MWh)
 Seminar Paper - "Energy Industry Seminar", Unicorn University, Winter 2023/2024
 
 **Attached**:  
